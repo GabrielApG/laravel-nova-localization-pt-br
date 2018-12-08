@@ -1,4 +1,4 @@
-# laravel-nova-localization-pt-br
+# Laravel Nova Localization pt_BR
 
 ### Package translation pt_BR for Laravel Nova
 
@@ -12,11 +12,6 @@ $ cd resources/lang/vendor/nova/pt-BR
 
 // clone or copy and paste file pt-BR.json
 $ git clone https://github.com/GabrielApG/laravel-nova-localization-pt-br.git
-```
-
-Remove folder .git
-```
-rm -r pt-BR/.git/
 ```
 
 Set Laravel to use pt-BR as default
