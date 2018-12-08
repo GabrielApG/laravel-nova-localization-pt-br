@@ -19,13 +19,13 @@ Remove folder .git
 rm -r pt-BR/.git/
 ```
 
-Set laravel to use pt-BR as default
+Set Laravel to use pt-BR as default
 ```
 // In file config/app.php change variable locale for pt-BR
 'locale' => 'pt-BR'
 ```
 
-To add more translations of the new laravel use the file
+To add more translations of the Laravel Nova use the file
 
 ```
 resources/lang/vendor/nova/pt-BR/pt-BR.json
