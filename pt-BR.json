@@ -365,5 +365,15 @@
     "Press enter to remove": "Enter par remover",
     "Oops! No elements found. Consider changing the search query.": "Ops! Nenhum objeto encontrado.",
     "Show Content": "Exibir Conteúdo",
-    "Hide Content": "Ocultar Conteúdo"
+    "Hide Content": "Ocultar Conteúdo",
+    "Create :resource": "Criar :resource",
+    "Update :resource": "Atualizar :resource",
+    "Update :resource: :title": "Atualizar :resource: :title",
+    "Update attached :resource: :title": "Atualizar :resource anexado :title",
+    "Delete :resource": "Deletar :resource",
+    "Attach :resource": "Anexar :resource",
+    "Choose :resource": "Escolher o :resource",
+    ":resource Details: :title": "Detalhes de :resource: :title",
+    "The :resource was deleted!": "O :resource foi deletado!",
+    "The :resource was restored!": "O :resource foi restaurado!"
 }
