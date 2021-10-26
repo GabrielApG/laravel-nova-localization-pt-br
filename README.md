@@ -8,7 +8,7 @@ Clone this repository or download files
 
 ```
 // open or create folder
-$ cd resources/lang/vendor/nova/pt-BR
+$ cd resources/lang/vendor/nova/
 
 // clone or copy and paste file pt-BR.json
 $ git clone https://github.com/GabrielApG/laravel-nova-localization-pt-br.git
@@ -23,6 +23,6 @@ Set Laravel to use pt-BR as default
 To add more translations of the Laravel Nova use the file
 
 ```
-resources/lang/vendor/nova/pt-BR/pt-BR.json
+resources/lang/vendor/nova/pt-BR.json
 ```
 
